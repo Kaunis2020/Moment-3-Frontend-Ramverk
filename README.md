@@ -1,25 +1,7 @@
 # uppgift3
 
-## Project setup
-```
-npm install
-```
+Uppgift 3 i Vu.js. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# moment-3-frontend-ramverk-Kaunis2020" 
+Man kan se alla lästa kurser. 
+Man kan också lägga in en kurs, uppdatera en kurs samt radera en kurs. 
+Projektet har en uppkoppling till en databas på en extern server.
