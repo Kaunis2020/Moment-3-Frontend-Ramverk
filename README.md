@@ -1,4 +1,4 @@
-# uppgift3
+# uppgift 3
 
 Uppgift 3 i Vu.js. 
 
